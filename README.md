@@ -1,9 +1,9 @@
+# Project Overview
 
+Collinear Points - Spark & MapReduce Basic
 
-Collinear Points - 
+Tweets Analysis - Spark & MapReduce Advanced
 
-Tweets Analysis - 
-
-Weather Analysis - PCA, 
+Weather Analysis - PCA, NumPy, Pandas
 
 Classification XGBoost - Boosting
